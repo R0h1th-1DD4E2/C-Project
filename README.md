@@ -35,7 +35,7 @@ gcc -o opampcalculator opampcalculator.c
 
 ## Contributors
 
-- @shreyap19
+- [@shreyap19](https://github.com/shreyap19)
 
 ## Contributing
 This project is open to contributions from anyone. If you find any bugs or have suggestions for new features, feel free to submit an issue or pull request.
