@@ -448,12 +448,3 @@ void exiting(void)
     printf("\n\n************************** Program Ends **************************\n\n");
 }
  
-/*
-Steps 
--->Greet with a welcome screen which asks for which OP-Amps operation to perform
--->Take the input and the particular function 
--->Take the input accordingly for the gain to calculate
--->Perform the operation according to function called 
--->Print the output and ask if you need to perform the calculation again
---Note-- Every input should be checked if entered correctly
- */
