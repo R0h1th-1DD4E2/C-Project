@@ -33,6 +33,9 @@ gcc -o opampcalculator opampcalculator.c
 3. The output voltage or gain will be displayed.
 4. If you want to calculate output voltage or gain for another amplifier, choose "Y" when prompted to try again. Otherwise, choose "N" to exit the program.
 
-## Contributing
+## Contributors
 
+- @shreyap19
+
+## Contributing
 This project is open to contributions from anyone. If you find any bugs or have suggestions for new features, feel free to submit an issue or pull request.
